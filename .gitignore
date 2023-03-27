@@ -1,0 +1,4 @@
+# Remove the Database File
+**/renote.db
+# Remove the files we don't require
+.venv/
